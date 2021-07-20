@@ -4,9 +4,9 @@ Projeto de desenvolvimento web 2.
 # Checkist
 Caixas de Diálogo
 
-- [ ] prompt
-- [ ] alert
-- [ ] confirm
+- [x] prompt
+- [x] alert
+- [x] confirm
 
 Temporizadores
 
@@ -36,7 +36,7 @@ Eventos
 Acesso aos elementos DOM do HTML
 
 - [ ] Via referência DOM pelo id do elemento HTML
-- [ ] Via getElementByID()
+- [x] Via getElementByID()
 - [ ] Via getElementsByName()
 - [ ] Via getElementsByTagName()
 - [ ] Via seletores CSS usados na função querySelector() ou querySelectorAll()
