@@ -1,3 +1,19 @@
+var ceni = function(){
+    return 131
+}
+
+document.getElementById("ceni").onclick = function(){
+    alert(ceni())
+}
+
+var cruzeiro = () =>{
+    alert("O Cruzeiro é o clube com mais Copas do Brasil (6)")
+}
+
+document.getElementById("cabuloso").onclick = function(){
+    cruzeiro()
+}
+
 document.getElementById("bolaMagica").onclick = function(){
     team = 0
 

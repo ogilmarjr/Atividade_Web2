@@ -1,3 +1,15 @@
+var welcome = function(){
+    alert("SEJA MUITO BEM VINDO!!!")
+}
+welcome ()
+
+var nameWelcome = function(name){
+    alert("Seja clubista " + name)
+}
+
+n = prompt("Qual seu nome?")
+nameWelcome(n)
+
 document.getElementById("jogador").onclick = function(){
     r = prompt("Para você, qual o maior jogador da história?")
 
