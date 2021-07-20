@@ -1,3 +1,3 @@
-document.getElementById("alemaes").onclick = function(){
+document.getElementById("germany").onclick = function(){
     alert("É o gooool da Alemanha :(")
 }

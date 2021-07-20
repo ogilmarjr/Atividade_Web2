@@ -10,7 +10,7 @@ Caixas de Diálogo
 
 Temporizadores
 
-- [ ] setInterval
+- [x] setInterval
 - [ ] setTimeout
 
 Funções
@@ -19,7 +19,7 @@ Funções
 - [ ] Função anônima sem argumento
 - [ ] Função anônima com retorno
 - [ ] Função auto-executável
-- [ ] Função com nome
+- [x] Função com nome
 - [ ] Função aninhada/local - declarar uma função dentro de outra
 - [ ] Passagem de uma função como parâmetro
 - [ ] Função Flecha - Arrow Function
