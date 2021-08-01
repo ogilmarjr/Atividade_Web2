@@ -1,5 +1,7 @@
+const GOLS_CENI = 131
+
 var ceni = function(){
-    return 131
+    return GOLS_CENI
 }
 
 document.getElementById("ceni").onclick = function(){
@@ -40,6 +42,13 @@ document.getElementById("bolaMagica").onclick = function(){
  
         }
         number()
+
+        caller(number);
+
+        function caller (f){
+            alert(f());
+        } 
+
         switch(team){
 
             case 1 :

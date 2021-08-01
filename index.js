@@ -1,7 +1,7 @@
-var welcome = function(){
++ function(){
     alert("SEJA MUITO BEM VINDO!!!")
-}
-welcome ()
+}()
+
 
 var nameWelcome = function(name){
     alert("Seja clubista " + name)
